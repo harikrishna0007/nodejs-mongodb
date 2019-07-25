@@ -1,0 +1,105 @@
+{
+    "bookName" : "PHP",
+    "bookCategory" : "Computer Science",
+    "BookCoverImage" : "http://placehold.it",
+    "ISBN" : "5625262",
+    "Price" : 52,
+    "view" : 5000,
+    "BookPublishedDate" : "12/05/2019",
+    "EditionNumber" : 2,
+    "Preface" : "Good Book",
+    "PublisherName" : "Vision Media",
+    "author" : {
+        "Author" : "Sathyamoorthi",
+        "AuthorPhone" : [9884525252,9884525252],
+        "AboutAuthor" : "Nice Person"
+    },
+    "Comments" : [
+        {
+            "message" : "Nice Book",
+            "CommentUserRatting" : 5,
+            "CommentTime" : "9.30AM",
+            "user" : {
+                "username" : "Vasanth",
+                "picture" : "http://placehold.it"
+            }
+        },
+        {
+            "message" : "Nice Book",
+            "CommentUserRatting" : 2,
+            "CommentTime" : "9.30AM",
+            "user" : {
+                "username" : "Vasanth",
+                "picture" : "http://placehold.it"
+            }
+        }
+    ],
+    "customers" : [
+        {
+            "CustomerName" : "Mari",
+            "CustomerProfilePicture" : "http://placehold.it",
+            "CustomerPurchaseDate" : "23/05/2019",
+            "CustomerPhoneNumber" : "9885652525"
+        },
+        {
+            "CustomerName" : "Mari",
+            "CustomerProfilePicture" : "http://placehold.it",
+            "CustomerPurchaseDate" : "23/05/2019",
+            "CustomerPhoneNumber" : "9885652525"
+        }
+    ]
+}
+
+
+
+// {
+//     "bookName" : "PHP",
+//     "bookCategory" : "Computer Science",
+//     "BookCoverImage" : "http://placehold.it",
+//     "ISBN" : "5625262",
+//     "Price" : 52,
+//     "view" : 5000,
+//     "BookPublishedDate" : "12/05/2019",
+//     "EditionNumber" : 2,
+//     "Preface" : "Good Book",
+//     "PublisherName" : "Vision Media",
+//     "author" : {
+//         "Author" : "Sathyamoorthi",
+//         "AuthorPhone" : 9884525252,
+//         "AboutAuthor" : "Nice Person"
+//     },
+//     "Comments" : [
+//         {
+//             "message" : "Nice Book",
+//             "CommentUserRatting" : 5,
+//             "CommentTime" : "9.30AM",
+//             "user" : {
+//                 "username" : "Vasanth",
+//                 "picture" : "http://placehold.it"
+//             }
+//         },
+//         {
+//             "message" : "Nice Book",
+//             "CommentUserRatting" : 2,
+//             "CommentTime" : "9.30AM",
+//             "user" : {
+//                 "username" : "Vasanth",
+//                 "picture" : "http://placehold.it"
+//             }
+//         }
+//     ],
+//     "customers" : [
+//         {
+//             "CustomerName" : "Mari",
+//             "CustomerProfilePicture" : "http://placehold.it",
+//             "CustomerPurchaseDate" : "23/05/2019",
+//             "CustomerPhoneNumber" : "9885652525"
+//         },
+//         {
+//             "CustomerName" : "Mari",
+//             "CustomerProfilePicture" : "http://placehold.it",
+//             "CustomerPurchaseDate" : "23/05/2019",
+//             "CustomerPhoneNumber" : "9885652525"
+//         }
+//     ]
+// }
